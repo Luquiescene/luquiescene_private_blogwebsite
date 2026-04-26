@@ -1,0 +1,10 @@
+{
+	"title": "日常相册",
+	"hidden": false,
+	"description": "记录生活里的温柔与可爱。",
+	"date": "2026-04-12",
+	"location": "线上小站",
+	"tags": ["生活", "记录", "可爱"],
+	"layout": "masonry",
+	"columns": 3
+}
