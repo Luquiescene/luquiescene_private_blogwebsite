@@ -4,8 +4,7 @@ published: 2026-04-26
 pinned: false
 description: 分享国内安全、合规、仅用于开发用途的GitHub加速方案。
 tags: ["GitHub" , "工具推荐"]
-category: 教程
-licenseName: "CC BY-NC-SA 4.0"
+category: 技术工具
 author: Luquiescene
 draft: false
 date: 2026-04-26

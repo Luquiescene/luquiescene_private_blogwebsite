@@ -1,6 +1,6 @@
 ---
-title: Markdown语法测试
-published: 2026-04-05
+title: Markdown Tutorial
+published: 2026-04-26
 pinned: false
 description: 一个对博客文章的简单测试
 tags: [测试]
@@ -14,7 +14,7 @@ image: "./cover.png"
 sourceLink: "https://github.com/emn178/markdown"
 ---
 
-> 版权说明：本文完全复制emn178的Markdown教程，原文采用Unlicense协议。仅做测试用，若侵权，请联系删除。   
+> 版权说明：本文完全复制emn178的Markdown教程。仅做测试用，若侵权，请联系删除。   
 
 # Markdown Tutorial
 
