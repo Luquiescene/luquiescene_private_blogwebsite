@@ -14,7 +14,7 @@ image: "./cover.png"
 sourceLink: "https://github.com/emn178/markdown"
 ---
 
-> 版权说明：本文完全复制emn178的Markdown教程。仅做测试用，若侵权，请联系删除。   
+> 版权说明：本文完全复制emn178的文章《Markdown Tutorial》。仅做测试用，若侵权，请联系删除。   
 
 # Markdown Tutorial
 
