@@ -53,7 +53,7 @@ export const siteConfig: SiteConfig = {
 	// 顶栏标题配置
 	navbarTitle: {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
-		mode: "logo",
+		mode: "text-icon",
 		// 顶栏标题文本
 		text: "Luquiescene",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
@@ -187,7 +187,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: true, // 显示横幅图片来源文本
 
-			text: "图片来源：星空列车与白的旅行》CG及二创", // 要显示的来源文本
+			text: "图片来源：《星空列车与白的旅行》CG及二创", // 要显示的来源文本
 			url: undefined, // （可选）原始艺术品或艺术家页面的 URL 链接
 		},
 
@@ -461,8 +461,8 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "随缘更新公告", // 公告标题，填空使用i18n字符串Key.announcement
-	content: "致各位访客：本博客无固定更新计划，更新全凭个人时间与心情，属于随缘更新状态。内容以个人技术笔记、网站优化记录为主，有空即更，无事则静候。感谢大家的理解与驻足，不必守候，遇见即是缘分。", // 公告内容
+	title: "友链申请公告", // 公告标题，填空使用i18n字符串Key.announcement
+	content: "欢迎大家和我互换友链~详细申请要求请见”了解更多“", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
