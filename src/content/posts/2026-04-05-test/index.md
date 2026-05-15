@@ -1,6 +1,7 @@
 ---
 title: Markdown Tutorial
-published: 2026-04-25
+published: 2026-04-05
+updated: 2026-04-25
 pinned: false
 description: 一个对博客文章的简单测试
 tags: [测试]
