@@ -3,9 +3,9 @@ title: Markdown Tutorial
 published: 2026-04-05
 updated: 2026-04-25
 pinned: false
-description: 一个对博客文章的简单测试
-tags: [测试]
-category: 测试
+description: Markdown教程。原作者：emn178。原文采用Unlicense协议。
+tags: ["测试","非原创","教程"]
+category: 理工研习
 licenseName: "Unlicensed"
 author: emn178
 draft: false
@@ -14,8 +14,7 @@ pubDate: 2026-04-05
 image: "./cover.png"
 sourceLink: "https://github.com/emn178/markdown"
 ---
-
-> 版权说明：本文完全复制emn178的文章《Markdown Tutorial》。仅做测试用，若侵权，请联系删除。   
+ 
 
 # Markdown Tutorial
 

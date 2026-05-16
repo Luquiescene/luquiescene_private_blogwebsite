@@ -1,14 +1,15 @@
 ---
 title: "（更新中）git基础使用方法"
 published: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 description: "安装、配置git，并使用git进行版本控制的基础操作。"
-tags: ["GitHub", "工具推荐"]
-category: 开发工具
+tags: ["GitHub", "工具推荐", "教程"]
+category: 技术工具
 draft: false
 pinned: false
 comment: true
 author: "Luquiescene"
+image: "./cover.webp"
 ---
 
 # 前言
@@ -18,6 +19,8 @@ author: "Luquiescene"
 博主初学git，顺便记录一下学习笔记，提取重要知识，希望可以帮到大家。
 
 演示操作系统：Windows 11，其他系统可能有所不同，请另寻教程。
+
+---
 
 # 安装与配置
 

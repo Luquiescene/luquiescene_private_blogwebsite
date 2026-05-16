@@ -462,7 +462,7 @@ export const shareConfig: ShareConfig = {
 
 export const announcementConfig: AnnouncementConfig = {
 	title: "友链申请公告", // 公告标题，填空使用i18n字符串Key.announcement
-	content: "欢迎大家和我互换友链~详细申请要求请见”了解更多“", // 公告内容
+	content: "欢迎大家和我互换友链~详细申请要求请见“了解更多”", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
